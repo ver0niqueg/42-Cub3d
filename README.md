@@ -327,4 +327,4 @@ Game initialized
 
 ---
 
-vgalmich – 42 School Student
+vgalmich & vihane
